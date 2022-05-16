@@ -23,5 +23,5 @@ ENV PATH /root/.wasmer/bin/:$PATH
 # The final base image
 # FROM debian:buster-slim
 
-CMD ["siva-wasi-rust"]
+CMD ["wasi-rust-example"]
 
