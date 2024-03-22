@@ -1,5 +1,5 @@
 # FROM rust:1.60 as build
-FROM rust:1.60 
+FROM rust:1.77 
 
 WORKDIR /usr/src/myapp
 
